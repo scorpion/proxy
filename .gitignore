@@ -1,0 +1,11 @@
+# mac files
+.DS_Store
+
+# env file
+.env
+
+# Webhook Config
+
+# Docker override configurations
+# See https://docs.docker.com/compose/production/
+docker-compose.*.yml
